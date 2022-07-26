@@ -1,0 +1,35 @@
+.navbar a.navbar-brand {
+  width: 300px;
+}
+.header-bg-color {
+  background-color: #fff9f4;
+}
+.primary-color {
+  color: #fa804c;
+}
+.secondary-color {
+  color: #363958;
+}
+.secondary-bg-color {
+  background-color: #363958;
+}
+.btn-bg-color {
+  background: linear-gradient(180deg, #3d4ff3 0%, #3543bc 100%);
+}
+h1.text-uppercase.secondary-color.fw-bold {
+  font-size: 3rem;
+}
+.shoes-bg-color {
+  background-color: #f1f1f1;
+}
+.benefits-content .content-icon img {
+  width: 80px;
+  height: 80px;
+}
+.nike-bg-tranparent {
+  background-color: rgba(54, 57, 58, 0.7);
+}
+footer a {
+  width: 50px;
+  height: 50px;
+}
